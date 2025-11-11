@@ -1,39 +1,43 @@
 [
   {
-    "name": "Open Passive Cheats",
+    "name": "Passive Cheats On",
     "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <for [Human player] Civilizations> <hidden from users>",
-      "Unbuildable <hidden from users>",
+      "Can be purchased for [0] [Gold] [in all cities]",
+      "Only available <for [Human player] Civilizations>",
+      "Destroyed when the city is captured",
 
       "[+100]% [Production] [in this city]",
       "[+100]% [Food] [in this city]",
       "[+100]% [Gold] [in this city]",
       "[+100]% [Science] [in this city]",
       "[+100]% [Culture] [in this city]",
-      "Only available <when religion is enabled> <hidden from users>",
+
+      "Only available <when religion is enabled>",
       "[+100]% [Faith] [in this city]",
 
       "[+100]% City Strength from defensive buildings",
       "[-100]% construction time for [All] improvements",
 
       "New [All] units start with [19999] XP [in this city]",
-      "Only available <when espionage is enabled> <hidden from users>",
+
+      "Only available <when espionage is enabled>",
       "New spies start with [2] level(s)"
     ]
   },
+
   {
-    "name": "Close Passive Cheats",
+    "name": "Passive Cheats Off",
     "uniques": [
-      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-      "Destroyed when the city is captured <hidden from users>",
-      "Only available <in cities with a [Open Passive Cheats]> <hidden from users>",
-      "Remove [Open Passive Cheats] [in this city] <hidden from users>",
-      "Remove [Close Passive Cheats] [in this city] <hidden from users>",
-      "Unbuildable <hidden from users>"
+      "Can be purchased for [0] [Gold] [in all cities]",
+      "Only available <for [Human player] Civilizations>",
+      "Destroyed when the city is captured",
+
+      "Only available <in cities with a [Passive Cheats On]>",
+      "Remove [Passive Cheats On] [in this city]",
+      "Remove [Passive Cheats Off] [in this city]"
     ]
-  },
+  }
+]  },
 
   {
     "name": "Open Instant Cheats",
