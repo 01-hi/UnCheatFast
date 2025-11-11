@@ -12,10 +12,9 @@
       "[+100]% [Science] [in this city]",
       "[+100]% [Culture] [in this city]",
       "[+100]% City Strength from defensive buildings",
-      "[-900]% construction time for [All] improvements",
+      "[-100]% construction time for [All] improvements",
       "New [All] units start with [10000] XP [in this city]",
-      "[+200]% [Faith] [in this city]",
-      "New spies start with [2] level(s)"
+      "[+200]% [Faith] [in this city]"
     ]
   },
   {
