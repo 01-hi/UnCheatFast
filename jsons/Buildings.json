@@ -24,7 +24,6 @@
       "New spies start with [2] level(s)"
     ]
   },
-
   {
     "name": "Passive Cheats Off",
     "uniques": [
@@ -36,9 +35,7 @@
       "Remove [Passive Cheats On] [in this city]",
       "Remove [Passive Cheats Off] [in this city]"
     ]
-  }
-]  },
-
+  },
   {
     "name": "Open Instant Cheats",
     "uniques": [
@@ -59,7 +56,6 @@
       "Unbuildable <hidden from users>"
     ]
   },
-
   {
     "name": "Population",
     "uniques": [
@@ -102,6 +98,200 @@
       "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
       "Remove [Technology] [in this city] <hidden from users>",
       "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Faith",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Gain [10000] [Faith]",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when religion is enabled> <hidden from users>",
+      "Remove [Faith] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Great Person",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Free Great Person",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [Great Person] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Spy",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Gain an extra spy",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when espionage is enabled> <hidden from users>",
+      "Remove [Spy] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Promote Spies",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when espionage is enabled> <hidden from users>",
+      "Promotes all spies [1] time(s)",
+      "Remove [Promote Spies] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Pantheon Belief",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Gain a free [Pantheon] belief",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when religion is enabled> <hidden from users>",
+      "Remove [Pantheon Belief] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Founder Belief",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Gain a free [Founder] belief",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when religion is enabled> <hidden from users>",
+      "Remove [Founder Belief] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Follower Belief",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Gain a free [Follower] belief",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when religion is enabled> <hidden from users>",
+      "Remove [Follower Belief] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "Enhancer Belief",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Gain a free [Enhancer] belief",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Only available <when religion is enabled> <hidden from users>",
+      "Remove [Enhancer Belief] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>"
+    ]
+  },
+  {
+    "name": "All Researchable Ancient era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Ancient era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Ancient era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Ancient era]"
+    ]
+  },
+  {
+    "name": "All Researchable Classical era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Classical era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Classical era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Classical era]"
+    ]
+  },
+  {
+    "name": "All Researchable Medieval era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Medieval era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Medieval era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Medieval era]"
+    ]
+  },
+  {
+    "name": "All Researchable Renaissance era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Renaissance era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Renaissance era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Renaissance era]"
+    ]
+  },
+  {
+    "name": "All Researchable Industrial era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Industrial era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Industrial era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Industrial era]"
+    ]
+  },
+  {
+    "name": "All Researchable Modern era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Modern era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Modern era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Modern era]"
+    ]
+  },
+  {
+    "name": "All Researchable Atomic era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Atomic era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Atomic era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Atomic era]"
+    ]
+  },
+  {
+    "name": "All Researchable Information era Techs",
+    "uniques": [
+      "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+      "Destroyed when the city is captured <hidden from users>",
+      "Only available <during the [Information era]> <hidden from users>",
+      "Only available <in cities with a [Open Instant Cheats]> <hidden from users>",
+      "Remove [All Researchable Information era Techs] [in this city] <hidden from users>",
+      "Unbuildable <hidden from users>",
+      "[99] free random researchable Tech(s) from the [Information era]"
+    ]
+  }
+]      "Unbuildable <hidden from users>"
     ]
   },
   {
